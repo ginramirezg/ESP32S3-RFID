@@ -27,4 +27,4 @@ En este proyecto, utilizamos un lector RFID MFRC522 con una placa ESP32S3 para l
 ## Advertencia
 Este código sobrescribe datos en la tarjeta RFID, por lo que recomendamos utilizarlo con precaución en tarjetas de prueba.
 
-
+<img src="https://github.com/ginramirezg/ESP32S3-RFID/blob/main/Imagen.jpg">
